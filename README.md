@@ -1,4 +1,4 @@
-# Covid-19-themed-Escape-Room
+# Race-Against-Time
 Team work - Web game - Sensitize players to Covid-19 precautions.
 HTML - Javascript - php.
 Player records are stored in school databases, though they are unstable and not accessible at times.
